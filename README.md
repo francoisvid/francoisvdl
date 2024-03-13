@@ -1,1 +1,1 @@
-# francoisvdl
+![Codewars](https://github.r2v.ch/codewars?user=francoisvdl&stroke=COLOR)
